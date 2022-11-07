@@ -3,7 +3,7 @@ name: Deploy to cluster
 on:
   # workflow_dispatch
   push:
-     branches:
+    branches:
     - main
 
 env:
